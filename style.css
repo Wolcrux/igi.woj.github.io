@@ -1,12 +1,6 @@
 body {
-  background-image: url('back.jpg');
-background-size: cover;
-background-position: center;
-float: left;
-width: 100%;
-padding: 20px;
+background-color: black;
 }
-
 h1 {
 color: white;
 font-size: 59px;
